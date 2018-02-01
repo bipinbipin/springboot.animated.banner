@@ -17,5 +17,6 @@ public class Application {
 			}
 		}
 
+		System.out.println(BG_RED + FG_CYAN + "+TEST+" + COLOR_RESET);
 	}
 }
